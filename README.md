@@ -42,14 +42,6 @@ cd UIUC-Fin-411-Inflation-and-Economic-Model-
 # Run the model
 python fred_linear_regression.py
 
-Inflation Model Summary:
-- Coefficient on GDP Growth: 0.85 (p < 0.01)
-- Coefficient on Unemployment Rate: -0.45 (p < 0.05)
-- R-squared: 0.72
-
-Sample Prediction:
-- With GDP growth 3.2% and unemployment 5.1% → Predicted inflation: 2.6%
-
 outputs/
   inflation_actual_vs_predicted.png
   inflation_residuals.png
