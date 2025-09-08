@@ -49,3 +49,17 @@ Inflation Model Summary:
 
 Sample Prediction:
 - With GDP growth 3.2% and unemployment 5.1% → Predicted inflation: 2.6%
+
+outputs/
+  inflation_actual_vs_predicted.png
+  inflation_residuals.png
+  inflation_qqplot.png
+  inflation_corr_heatmap.png
+  economic_actual_vs_predicted.png
+  economic_residuals.png
+  economic_qqplot.png
+  economic_corr_heatmap.png
+
+inflation_model.py
+economic_model.py
+README.md
