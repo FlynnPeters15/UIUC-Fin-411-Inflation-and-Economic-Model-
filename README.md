@@ -1,5 +1,3 @@
-make the readme similar to this one: 
-
 # UIUC FIN 411: Inflation and Economic Model
 
 **Recreating inflation and economic forecasting models originally implemented in Excel, now developed in Python—with reproducible outputs, figures, embedded regression tables, and clear variable descriptions.**
